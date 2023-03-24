@@ -400,15 +400,15 @@ section {
   text-transform:lowercase;
 }
 
-.contact .row {
+/* .contact .row {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
   margin-top: 3rem;
-}
+} */
 
 .contact .row img {
-  width: 78rem;
+  width: 100%;
   object-fit: cover;
   border-radius: 0.5rem;
 }
